@@ -1,0 +1,5 @@
+Blurbwindowopen = False
+Resolution = Auto
+Fullscreen = False
+Difficultymode = Easy
+Benchmarkstart = False
